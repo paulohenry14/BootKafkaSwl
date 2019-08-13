@@ -1,0 +1,11 @@
+C:\Users\logonrmlocal\source\repos\KafkaInsert\KafkaInsert\bin\Debug\netcoreapp2.2\KafkaInsert.deps.json
+C:\Users\logonrmlocal\source\repos\KafkaInsert\KafkaInsert\bin\Debug\netcoreapp2.2\KafkaInsert.runtimeconfig.json
+C:\Users\logonrmlocal\source\repos\KafkaInsert\KafkaInsert\bin\Debug\netcoreapp2.2\KafkaInsert.runtimeconfig.dev.json
+C:\Users\logonrmlocal\source\repos\KafkaInsert\KafkaInsert\bin\Debug\netcoreapp2.2\KafkaInsert.dll
+C:\Users\logonrmlocal\source\repos\KafkaInsert\KafkaInsert\obj\Debug\netcoreapp2.2\KafkaInsert.csproj.CoreCompileInputs.cache
+C:\Users\logonrmlocal\source\repos\KafkaInsert\KafkaInsert\obj\Debug\netcoreapp2.2\KafkaInsert.AssemblyInfoInputs.cache
+C:\Users\logonrmlocal\source\repos\KafkaInsert\KafkaInsert\obj\Debug\netcoreapp2.2\KafkaInsert.AssemblyInfo.cs
+C:\Users\logonrmlocal\source\repos\KafkaInsert\KafkaInsert\obj\Debug\netcoreapp2.2\KafkaInsert.csprojAssemblyReference.cache
+C:\Users\logonrmlocal\source\repos\KafkaInsert\KafkaInsert\bin\Debug\netcoreapp2.2\KafkaInsert.pdb
+C:\Users\logonrmlocal\source\repos\KafkaInsert\KafkaInsert\obj\Debug\netcoreapp2.2\KafkaInsert.dll
+C:\Users\logonrmlocal\source\repos\KafkaInsert\KafkaInsert\obj\Debug\netcoreapp2.2\KafkaInsert.pdb

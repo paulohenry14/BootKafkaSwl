@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KafkaInsert", "KafkaInsert\KafkaInsert.csproj", "{EB666A9A-8B5B-476D-AEF7-899365AC7984}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB666A9A-8B5B-476D-AEF7-899365AC7984}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB666A9A-8B5B-476D-AEF7-899365AC7984}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB666A9A-8B5B-476D-AEF7-899365AC7984}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB666A9A-8B5B-476D-AEF7-899365AC7984}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38163E7E-8D73-4578-B9CC-7F4FEB65A255}
+	EndGlobalSection
+EndGlobal
